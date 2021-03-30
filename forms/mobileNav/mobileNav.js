@@ -12,7 +12,7 @@ hmbMenu.onclick = function(s) {
       case "Favorite Exercises":
         ChangeForm(favExercises)
         break
-      case "Mobile Nav":
+      case "Mobile Navigation":
         ChangeForm(mobileNav)
         break
     }
